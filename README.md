@@ -1,4 +1,4 @@
-# projeto01-stage02-explorer
+# projeto - stage2.1 - desafio
 **Curso Explorer - Rocketseat**
 
 **Desafio Iniciante - Corrigindo bugs**
